@@ -1,0 +1,32 @@
+[
+  {
+    "name": "51 Eri b",
+    "pl_name": "51 Eri b",
+    "pl_masse": 635.66,
+    "pl_rade": 13.4
+  },
+  {
+    "name": "51 Peg b",
+    "pl_name": "51 Peg b",
+    "pl_masse": 146.2018,
+    "pl_rade": 14.3
+  },
+  {
+    "name": "55 Cnc b",
+    "pl_name": "55 Cnc b",
+    "pl_masse": null,
+    "pl_rade": 13.9
+  },
+  {
+    "name": "55 Cnc c",
+    "pl_name": "55 Cnc c",
+    "pl_masse": null,
+    "pl_rade": 8.51
+  },
+  {
+    "name": "55 Cnc d",
+    "pl_name": "55 Cnc d",
+    "pl_masse": null,
+    "pl_rade": 13.0
+  }
+]
